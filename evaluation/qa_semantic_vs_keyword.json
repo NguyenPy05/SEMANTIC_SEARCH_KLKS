@@ -1,0 +1,302 @@
+[
+  {
+    "id": "Q_HYB_01",
+    "query": "một đứa trẻ lang thang đuổi theo sinh vật bốn chân chạy nhanh rồi lạc vào vùng đất đầy rẫy những điều phi lý và sinh vật kỳ quặc",
+    "expected_title": "Alice’s Adventures in Wonderland",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_02",
+    "query": "các mưu chước và thủ đoạn thực dụng dành cho người cai trị nhằm thâu tóm và bảo vệ vương quyền lãnh thổ",
+    "expected_title": "The Prince",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_03",
+    "query": "câu chuyện tình cảm đôi lứa vượt qua những tự ái cá nhân và cái nhìn phiến diện ban đầu ở xã hội quý tộc xưa",
+    "expected_title": "Pride and Prejudice",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_04",
+    "query": "đứa trẻ mồ côi bất ngờ đổi đời nhờ một khoản thừa kế bí ẩn từ một ân nhân mà cậu không hề hay biết",
+    "expected_title": "Great Expectations",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_05",
+    "query": "những khát vọng cao cả của người phụ nữ bị bóp nghẹt bởi định kiến và sự tẻ nhạt của hoàn cảnh sống thời xưa",
+    "expected_title": "Middlemarch",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_06",
+    "query": "tác phẩm lịch sử ghi chép cổ đại về các triều đại hoàng đế và các nhân vật chính trị lớn của Trung Hoa",
+    "expected_title": "Sử ký Tư Mã Thiên",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_07",
+    "query": "những đứa trẻ bay đến một vùng đất xa xôi nơi thời gian ngưng đọng và chúng không phải trưởng thành",
+    "expected_title": "Peter Pan",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_08",
+    "query": "cuộc gặp đầu tiên giữa vị thám tử lập dị và người bạn cùng phòng tại London dẫn đến việc giải quyết vụ án mạng trả thù kéo dài nhiều năm",
+    "expected_title": "A Study in Scarlet",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_09",
+    "query": "người đàn bà chịu hình phạt sỉ nhục trước đám đông và phải mang biểu tượng ô nhục trên ngực áo vì vi phạm tiết hạnh",
+    "expected_title": "The Scarlet Letter",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_10",
+    "query": "sự cắn rứt và hoảng loạn tinh thần của chàng sinh viên nghèo sau khi ra tay sát hại bà lão cho vay nặng lãi",
+    "expected_title": "Crime and Punishment",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_11",
+    "query": "chuyến đi biển đầy cuồng loạn của một đoàn thủy thủ săn đuổi sinh vật khổng lồ dưới đại dương để rửa hận",
+    "expected_title": "Moby-Dick",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_12",
+    "query": "vụ án mạng bí ẩn ở vùng đầm lầy sương mù liên quan đến lời đồn về con thú săn mồi khổng lồ phát sáng dữ tợn",
+    "expected_title": "The Hound of the Baskervilles",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_13",
+    "query": "thiết bị cơ khí đưa người chế tạo nó vượt qua hàng triệu năm để đến thời kỳ nhân loại thoái hóa thành hai giống loài đối lập",
+    "expected_title": "The Time Machine",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_14",
+    "query": "cuộc tấn công tàn khốc của sinh vật ngoài trái đất bằng những cỗ máy ba chân phun tia hủy diệt lên loài người",
+    "expected_title": "The War of the Worlds",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_15",
+    "query": "ông già ích kỷ keo kiệt thay đổi tâm tính sau khi chứng kiến tương lai ảm đạm của mình qua lời cảnh báo của các vong hồn",
+    "expected_title": "A Christmas Carol",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_16",
+    "query": "buổi sáng thức dậy và phát hiện bản thân đã biến thành một sinh vật nhiều chân ghê tởm khiến gia đình xa lánh",
+    "expected_title": "Metamorphosis",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_17",
+    "query": "cô bé lạc vào xứ sở xa lạ và đi tìm vị phù thủy tối cao cùng những người bạn kỳ lạ để trở về nhà",
+    "expected_title": "The Wonderful Wizard of Oz",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_18",
+    "query": "những trò quậy phá tinh nghịch của cậu bé sống ở làng quê ven sông cùng những chuyến đi trốn đầy thú vị",
+    "expected_title": "The Adventures of Tom Sawyer",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_19",
+    "query": "mối hận thù dai dẳng và tình yêu cuồng nhiệt tăm tối giữa hai con người ở vùng đồi lộng gió đầy cô quạnh",
+    "expected_title": "Wuthering Heights",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_20",
+    "query": "hành trình trốn chạy tự do trên sông nước của cậu bé hoang dã cùng một người da màu đi tìm sự giải thoát khỏi kiếp nô lệ",
+    "expected_title": "Adventures of Huckleberry Finn",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_21",
+    "query": "thủy thủ tàu viễn dương bị đắm tàu và tỉnh dậy thấy mình bị trói chặt bởi hàng ngàn người bé nhỏ như ngón tay",
+    "expected_title": "Gulliver's Travels",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_22",
+    "query": "quái vật được ráp nối từ các tử thi bị chính người tạo ra nó ghẻ lạnh và xua đuổi dẫn đến chuỗi bi kịch trả thù",
+    "expected_title": "Frankenstein",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_23",
+    "query": "những biến động lịch sử đẫm máu thời kỳ cách mạng và sự hy sinh cao cả của tình yêu giữa hai đô thị lớn ở châu Âu",
+    "expected_title": "A Tale of Two Cities",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_24",
+    "query": "sự bùng nổ của mạng lưới liên kết toàn cầu và các mô hình kinh doanh dựa trên công nghệ số làm thay đổi xã hội",
+    "expected_title": "The Digital Economy 20th Anniversary Edition Rethinking Promise and Peril in the Age of Networked Intelligence",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_25",
+    "query": "triết lý mật tông về sự vô thường, cách đối diện với cái chết và chuẩn bị cho sự tái sinh ở cõi khác",
+    "expected_title": "The Tibetan Book of Living and Dying",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_26",
+    "query": "những suy tư về việc đối mặt với nghịch cảnh, giam cầm và tự do nội tâm của nữ nhà văn người Đức",
+    "expected_title": "CHẤP NHẬN CUỘC ĐỜI",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_27",
+    "query": "những bài viết tản văn sâu lắng về hành trình đi tìm bản thể, tâm linh phương Đông và sự giải thoát khỏi ảo mộng cuộc đời",
+    "expected_title": "MỘNG ĐỜI BẤT TUYỆT",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_28",
+    "query": "cuộc tranh luận lịch sử về các quy tắc ngữ pháp cứng nhắc và sự tiến hóa tự nhiên của ngôn ngữ nói",
+    "expected_title": "Bad English",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_29",
+    "query": "phương pháp xây dựng hệ thống phần mềm quy mô lớn đảm bảo tính tin cậy, bảo mật và hiệu năng vận hành",
+    "expected_title": "Software Engineering",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_30",
+    "query": "những câu chuyện vui nhộn và mẹo nhỏ giúp người Việt tiếp cận ngoại ngữ một cách tự nhiên và sinh động",
+    "expected_title": "TIẾNG ANH LÝ THÚ",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_31",
+    "query": "khảo cứu chi tiết về nghi lễ cưới hỏi, tang ma, giỗ tết và các thói quen sinh hoạt của người dân nước ta thời xưa",
+    "expected_title": "VIỆT NAM PHONG TỤC",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_32",
+    "query": "phân tích diễn biến các nền văn minh và các sự kiện lớn định hình dòng chảy lịch sử nhân loại",
+    "expected_title": "A History of the World",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_33",
+    "query": "giáo trình cơ bản trình bày các trường phái tư tưởng lớn về hiện sinh, nhận thức luận và siêu hình học",
+    "expected_title": "Triết Học Nhập Môn",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_34",
+    "query": "tập truyện về cuộc sống khẩn hoang đầy gian khổ nhưng đậm chất hào sảng của người dân vùng đất mũi phía Nam",
+    "expected_title": "HƯƠNG RỪNG CÀ MAU",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_35",
+    "query": "sự hình thành và phát triển của các tư tưởng Phật giáo, Thần đạo và nghệ thuật truyền thống xứ sở hoa anh đào",
+    "expected_title": "VĂN HÓA SỬ NHẬT BẢN",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_36",
+    "query": "cuộc đời tự lập và khát vọng cống hiến cho khoa học hàng không vũ trụ của một nhà nghiên cứu lớn tại quốc gia Nam Á",
+    "expected_title": "Wings of Fire an Autobiography",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_37",
+    "query": "góc nhìn phân tích sử học khách quan về các nhân vật quân sự mưu lược thời kỳ phân tranh ba thế lực phong kiến Trung Hoa",
+    "expected_title": "Phẩm Tam Quốc",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_38",
+    "query": "hướng dẫn thủ công đan thắt các loại phụ kiện sinh tồn đa năng từ những sợi dây bện chắc chắn",
+    "expected_title": "Paracord Bracelet Instructions",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_39",
+    "query": "phương pháp rèn luyện tư duy độc lập, tự trau dồi kiến thức suốt đời mà không cần đến trường lớp",
+    "expected_title": "Tự học, một nhu cầu của thời đại",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_40",
+    "query": "khám phá những động cơ tâm lý sâu kín chi phối hành vi và quyết định mua sắm của các nhóm khách hàng khác nhau",
+    "expected_title": "The Culture Code",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_41",
+    "query": "toàn bộ các ghi chép phá án kinh điển của vị thám tử tài ba sống ở phố Baker",
+    "expected_title": "The Complete Sherlock Holmes",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_42",
+    "query": "cuộc đời thăng trầm, đầy thi vị của một thi sĩ lỗi lạc thời nhà Tống cùng những đóng góp nghệ thuật của ông",
+    "expected_title": "Tô Đông Pha",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_43",
+    "query": "triết lý kinh doanh lập dị và cuộc đời của người sáng lập ra tập đoàn công nghệ quả táo khuyết",
+    "expected_title": "Steve Jobs",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_44",
+    "query": "sự trỗi dậy thần kỳ của nền kinh tế vùng lãnh thổ hải đảo châu Á qua các chính sách công nghiệp hóa",
+    "expected_title": "Đài Loan – Tiến trình hóa rồng",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_45",
+    "query": "tập hợp những câu chuyện kỳ dị về các vị thần, quái vật và sự tích lịch sử thuở khai hoang mở cõi của dân tộc",
+    "expected_title": "Lĩnh Nam chích quái",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_46",
+    "query": "những bài viết ngắn gọn giới thiệu các vấn đề triết lý đời sống thường ngày cho độc giả đại chúng",
+    "expected_title": "Philosophy for Everyone",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_47",
+    "query": "phương pháp rèn luyện sự tập trung cao độ và nâng cao hiệu suất học tập từ trải nghiệm của kỳ thủ cờ vua thế giới",
+    "expected_title": "The Art of Learning",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_48",
+    "query": "sự tiến hóa của các phương thức lưu trữ và truyền tin từ thời chữ viết cổ đến kỷ nguyên bit dữ liệu",
+    "expected_title": "The Information",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_49",
+    "query": "những câu chuyện dân gian kỳ ảo về công chúa, hoàng tử và thế giới loài vật của hai tác giả người Đức",
+    "expected_title": "Grimm's Fairy Tales",
+    "expected_status": "good"
+  },
+  {
+    "id": "Q_HYB_50",
+    "query": "làm thế nào để xây dựng một văn hóa sáng tạo đột phá trong các studio thiết kế sản phẩm",
+    "expected_title": "The Art of Innovation",
+    "expected_status": "good"
+  }
+]

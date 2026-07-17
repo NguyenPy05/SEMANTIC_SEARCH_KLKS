@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+.env
+
+# Models & Embeddings
+cache_embeddings/
+.cache/
+huggingface/
+sentence_transformers/
+
+# Data & Database
+qdrant_data/
+data/books/
+data/chunks/
+data/processed/
+*.csv
+*.json
+!data/books_metadata.json
+!evaluation/*.json
+
+# Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.eslintcache
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch & Logs
+scratch/
+logs/
+*.log

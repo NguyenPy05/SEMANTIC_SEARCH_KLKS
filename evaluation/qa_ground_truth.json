@@ -1,0 +1,179 @@
+[
+  {
+    "id": "Q01",
+    "query": "Một cô bé rơi xuống hố thỏ và lạc vào một thế giới kỳ lạ, nơi mọi quy tắc bị đảo lộn. Đây là cuốn sách nào?",
+    "expected_title": "Alice’s Adventures in Wonderland"
+  },
+  {
+    "id": "Q02",
+    "query": "Một chuyến săn cá voi trắng ám ảnh một thủy thủ đoàn giữa biển cả mênh mông.",
+    "expected_title": "MOBY-DICK"
+  },
+  {
+    "id": "Q03",
+    "query": "Một câu chuyện khoa học viễn tưởng về cuộc xâm lăng của người Hỏa tinh với những cỗ máy chiến tranh khổng lồ xuống Trái đất.",
+    "expected_title": "The War of the Worlds"
+  },
+  {
+    "id": "Q04",
+    "query": "Những hồn ma Giáng sinh viếng thăm một ông già keo kiệt và buộc ông phải nhìn nhận lại cuộc đời mình. Tên sách là gì?",
+    "expected_title": "A Christmas Carol"
+  },
+  {
+    "id": "Q05",
+    "query": "Một người đàn ông tỉnh dậy và thấy thân thể mình biến thành một sinh vật côn trùng khổng lồ.",
+    "expected_title": "Metamorphosis"
+  },
+  {
+    "id": "Q06",
+    "query": "Cuốn sách kể về một cậu bé mồ côi lênh đênh trên dòng sông cùng với một người nô lệ đang bỏ trốn.",
+    "expected_title": "Huckleberry Finn"
+  },
+  {
+    "id": "Q07",
+    "query": "Tác phẩm kinh điển nào nói về các quy tắc xã hội, sự kiêu hãnh và một thị trường hôn nhân phức tạp?",
+    "expected_title": "Pride and Prejudice"
+  },
+  {
+    "id": "Q08",
+    "query": "Một luận thuyết chính trị từ thời Phục hưng Ý về cách cai trị và giữ vững quyền lực.",
+    "expected_title": "The Prince"
+  },
+  {
+    "id": "Q09",
+    "query": "Câu chuyện thiếu nhi về cô bé với đôi giày thủy tinh và phép màu ngày xưa.",
+    "expected_title": "Sách rác (No Match)",
+    "expected_status": "no_match"
+  },
+  {
+    "id": "Q10",
+    "query": "Một cậu bé tinh nghịch, một kho báu giấu kín và một cuộc phiêu lưu tại thị trấn ven sông cùng những người bạn.",
+    "expected_title": "Tom Sawyer"
+  },
+  {
+    "id": "Q11",
+    "query": "Cuốn sách nào phân tích các lỗi ngữ pháp và sự suy yếu trong cách sử dụng tiếng Anh?",
+    "expected_title": "Bad English"
+  },
+  {
+    "id": "Q12",
+    "query": "Cuốn khảo cứu về phong tục, nếp nhà và lối sống truyền thống ở Việt Nam xưa.",
+    "expected_title": "VIỆT NAM PHONG TỤC"
+  },
+  {
+    "id": "Q13",
+    "query": "Một cuốn sách lịch sử về Nhật Bản từ thời Jomon trở đi, bàn về văn hóa và quá trình xây dựng đất nước.",
+    "expected_title": "VĂN HÓA SỬ NHẬT BẢN"
+  },
+  {
+    "id": "Q14",
+    "query": "Một mô tả quá chung chung về 'người cha' và chuyện viết code, không rõ là sách nào.",
+    "expected_title": "Sách rác (No Match)",
+    "expected_status": "no_match"
+  },
+  {
+    "id": "Q15",
+    "query": "Câu chuyện trinh thám về một con chó săn khổng lồ ám ảnh vùng đầm lầy của một gia đình quý tộc.",
+    "expected_title": "Hound of the Baskervilles"
+  },
+  {
+    "id": "Q16",
+    "query": "Một cô bé bị một cơn bão cuốn đi và lạc đến xứ Oz, sau đó đi theo con đường gạch vàng.",
+    "expected_title": "Wizard of Oz"
+  },
+  {
+    "id": "Q17",
+    "query": "Sinh viên nghèo phạm tội ác rồi bị giằng xé bởi lương tâm và nỗi ám ảnh.",
+    "expected_title": "Crime and Punishment"
+  },
+  {
+    "id": "Q18",
+    "query": "Cậu bé không bao giờ lớn, bay đến một nơi gọi là Neverland cùng với Wendy và những người bạn.",
+    "expected_title": "Peter Pan"
+  },
+  {
+    "id": "Q19",
+    "query": "Nhà khoa học tạo ra một sinh vật sống từ những phần xác ghép lại, rồi mất kiểm soát.",
+    "expected_title": "Frankenstein"
+  },
+  {
+    "id": "Q20",
+    "query": "Cỗ máy thời gian của một nhà khoa học đã đưa ông ta đến tương lai xa xôi. Đây là tiểu thuyết nào?",
+    "expected_title": "The Time Machine"
+  },
+  {
+    "id": "Q21",
+    "query": "Huyền sử Việt cổ, Lạc Long Quân, thần thoại và chuyện nguồn gốc dân tộc.",
+    "expected_title": "LĨNH NAM CHÍCH QUÁI"
+  },
+  {
+    "id": "Q22",
+    "query": "Hồi ký/tự truyện về tên lửa, vệ tinh và sự trỗi dậy của Ấn Độ thông qua khoa học.",
+    "expected_title": "WINGS OF FIRE"
+  },
+  {
+    "id": "Q23",
+    "query": "Tiểu sử về người sáng lập Apple, tập trung vào khát vọng, bệnh tật và sự đổi mới.",
+    "expected_title": "Steve Jobs"
+  },
+  {
+    "id": "Q24",
+    "query": "Sách khuyên tự học, tự rèn và nâng cao bản thân theo tinh thần của Nguyễn Hiến Lê.",
+    "expected_title": "Tự học, một nhu cầu của thời đại"
+  },
+  {
+    "id": "Q25",
+    "query": "Một cuốn phân tích ngụy biện, bóc tách lỗi lập luận và chiêu đánh tráo khái niệm.",
+    "expected_title": "NHỮNG TRÒ NGỤY BIỆN"
+  },
+  {
+    "id": "Q26",
+    "query": "Tam quốc, Ngụy - Thục - Ngô, những góc khuất lịch sử được nhìn lại dưới lăng kính phê bình.",
+    "expected_title": "Phẩm Tam Quốc"
+  },
+  {
+    "id": "Q27",
+    "query": "Tập truyện về rừng rẫy và vùng đất phương Nam quanh vùng Cà Mau và Rạch Giá.",
+    "expected_title": "HƯƠNG RỪNG CÀ MAU"
+  },
+  {
+    "id": "Q28",
+    "query": "Sách Phật giáo bàn về cái chết, tái sinh và hành trình tâm linh ở Tây Tạng.",
+    "expected_title": "THE TIBETAN BOOK OF LIVING AND DYING"
+  },
+  {
+    "id": "Q29",
+    "query": "Nền kinh tế số, sự gián đoạn của các nền tảng và cách công nghệ định hình lại các mô hình kinh doanh.",
+    "expected_title": "DIGITAL ECONOMY"
+  },
+  {
+    "id": "Q30",
+    "query": "Một truyện trinh thám kiểu Holmes: vị thám tử và kẻ phá án trên phố Baker nhưng không nêu tên sách.",
+    "expected_title": "Hound of the Baskervilles"
+  },
+  {
+    "id": "Q31",
+    "query": "Làm thế nào để duy trì và kiểm soát một quốc gia khi xung quanh đầy rẫy kẻ thù và sự phản bội?",
+    "expected_title": "The Prince"
+  },
+  {
+    "id": "Q32",
+    "query": "Hành trình nội tâm của một con người khi lỡ tay tước đoạt sinh mạng người khác và bị tòa án lương tâm phán xét.",
+    "expected_title": "Crime and Punishment"
+  },
+  {
+    "id": "Q33",
+    "query": "Cuốn sách kể về sự ngạo mạn của con người khi cố gắng chắp vá và hồi sinh một sinh thể nhân tạo, mang lại hậu quả bi đát.",
+    "expected_title": "Frankenstein"
+  },
+  {
+    "id": "Q34",
+    "query": "Tác phẩm phản ánh sự chia rẽ giai cấp xã hội Anh thời xưa qua câu chuyện tình yêu phải vượt qua những định kiến mù quáng.",
+    "expected_title": "Pride and Prejudice"
+  },
+  {
+    "id": "Q35",
+    "query": "Một người bị kẹt trong hình hài kỳ dị, đánh mất nhân dạng và bị chính gia đình mình ruồng bỏ đến chết.",
+    "expected_title": "Metamorphosis"
+  }
+]
